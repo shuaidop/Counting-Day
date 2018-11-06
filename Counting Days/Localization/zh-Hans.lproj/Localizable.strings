@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Counting Days
+
+  Created by Cao,Xiangzhao on 2018/11/1.
+  Copyright © 2018 Yao Xie. All rights reserved.
+*/
+RESET_NAME = "重置";
+SELECT_HOLIDAY = "选择假日";
+
+CHRISTMAS = "圣诞节";
+KWANZA = "宽扎节";
+CHANUKAH = "光明节";
+
+COUNTING_DAYS = "倒计时";
+TIPS_IN_ORDER = "请按顺序点击";
+YES = "是";
+NO = "否";
+TIPS_RESER_IT = "确定要重置?";

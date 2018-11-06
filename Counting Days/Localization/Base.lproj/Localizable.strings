@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Counting Days
+
+  Created by Cao,Xiangzhao on 2018/11/1.
+  Copyright © 2018 Yao Xie. All rights reserved.
+*/
+RESET_NAME = "Reset";
+SELECT_HOLIDAY = "Select Holiday";
+
+CHRISTMAS = "Christmas";
+KWANZA = "Kwanza";
+CHANUKAH = "Chanukah";
+
+COUNTING_DAYS = "Counting Days";
+TIPS_IN_ORDER = "Please tap the days in order";
+YES = "YES";
+NO = "NO";
+TIPS_RESER_IT = "Make sure you reset it";
